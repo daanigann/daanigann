@@ -8,8 +8,8 @@
 
 ### About me :eyes:
 
-- :dart: Reverse Engineer | LUA Destroyer | Deep learning | Computer vision | Assembly is for Jesus
-- 🌐 Social handles : **_bruh_**
+- :dart: Reverse Engineer | LUA Destroyer 
+- 🌐 Social handles : **_wdym by social?_**
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=daanigann&show_icons=true&theme=tokyonight" />
 
@@ -22,7 +22,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><br/>
 <br/>
